@@ -5,6 +5,7 @@
 int main()
 {
     // printf("%d", number);
+    // Using random Function
 
     for (int x = 0; x <= 10; x++)
     {
